@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/onesignal",
+    "name": "laravel-notification-channels/onesignal-laravel10",
     "description": "OneSignal Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/onesignal",
+    "homepage": "https://github.com/timsinakiran/onesignal-laravel10",
     "license": "MIT",
     "authors": [
         {
@@ -23,7 +23,12 @@
             "name": "David Llop",
             "email": "hello@davidllop.com",
             "homepage": "http://davidllop.com"
-        }
+        },
+        {
+            "name": "Kiran Timsina (Updated)",
+            "email": "kiran@ugcakes.com",
+            "homepage": "-"
+        },
     ],
     "require": {
         "php": "^8.0",
