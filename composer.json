@@ -28,7 +28,7 @@
             "name": "Kiran Timsina (Updated)",
             "email": "kiran@ugcakes.com",
             "homepage": "-"
-        },
+        }
     ],
     "require": {
         "php": "^8.0",
